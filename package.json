@@ -1,0 +1,14 @@
+{
+  "name": "oeuia",
+  "version": "1.0.0",
+  "description": "Offline OUI lookup tool",
+  "main": "oeuia.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "oeuia": "./oeuia.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
